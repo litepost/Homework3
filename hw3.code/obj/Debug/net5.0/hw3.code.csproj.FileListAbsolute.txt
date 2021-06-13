@@ -1,0 +1,16 @@
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\hw3.code.exe
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\hw3.code.deps.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\hw3.code.runtimeconfig.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\hw3.code.runtimeconfig.dev.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\hw3.code.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\ref\hw3.code.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\bin\Debug\net5.0\hw3.code.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.csprojAssemblyReference.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.AssemblyInfoInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.AssemblyInfo.cs
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.csproj.CoreCompileInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\ref\hw3.code.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework3\hw3.code\obj\Debug\net5.0\hw3.code.genruntimeconfig.cache
